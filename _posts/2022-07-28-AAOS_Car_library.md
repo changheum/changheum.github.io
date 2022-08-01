@@ -497,8 +497,8 @@ __LifesycleOwner__ 인터페이스를 구현하여, __Session__ 및 __Screen__ �
   
 ## The lifecycles of a CarAppService and a Session
 자세한 내용은 [Session.getLifecycle 메서드 문서](https://developer.android.com/reference/androidx/car/app/Session?hl=ko#getLifecycle())를 참고  
-![Session 수명 주기](/assets/img/posts/2022-07-28_carappservice-session-lifecycle.png)  
+![Session 수명 주기](/assets/img/posts/2022-07-28_carappservice-session-lifecycle.png){style="background-color:white"}  
 
 ## The lifecycle of a Screen
 자세한 내용은 [Screen.getLifecycle 메서드 문서](https://developer.android.com/reference/androidx/car/app/Screen#getlifecycle)를 참고  
-![Screen 수명 주기](/assets/img/posts/2022-07-28_carappservice-session-lifecycle.png) 
+![Screen 수명 주기](/assets/img/posts/2022-07-28_carappservice-session-lifecycle.png){: .class #custom-id-3 style="padding-top:0" key="value"} 
