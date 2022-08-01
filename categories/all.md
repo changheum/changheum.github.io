@@ -1,5 +1,6 @@
 ---
 layout: page
+title: All
 permalink: /blog/categories/
 ---
 
