@@ -1,7 +1,7 @@
 title: devlopr Changheum
 subtitle: Changheum Home
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  2022-08-01 부터 공사중입니다.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,20 +26,20 @@ urls:
 
 author_logo: changheum.png
 author: Yoon Changheum
-author_bio: Hi, my name is Changheum. I built this site using devlopr-jekyll :D
+author_bio: Hi, my name is Changheum.
 author_email: "blueheum@gmail.com"
 author_location: Korea
 author_website_url: "https://changheum.github.io"
-typewrite-text: Welcome to Heum's Blog.
+typewrite-text: Welcome to Heum's Blog. 2022-08 부터 지킬 홈피 공사중입니다.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: KT
+            - company_name: Korea Telecom
               company_logo: kt.png
               company_url: https://kt.com
               designation: Software Engineer
-              description: Worked on various Google Products
+              description: Worked on various KT Products
               visibility: true
 
 # Education
@@ -48,7 +48,7 @@ author_education_details:
                 college_name: Yonsei University
                 college_url: https://yonsei.ac.kr
                 college_degree: Computer science
-                description: Bachelor of Technology
+                description: Bachelor
                 visibility: true
 
 # Projects
