@@ -17,7 +17,7 @@ layout: post
 summary: Static Factory Method
 author: changheum
 category: [java]
-# thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/documents.png
 keywords: [java, pattern]
 usemathjax: true
 permalink: /blog/effective_java_1

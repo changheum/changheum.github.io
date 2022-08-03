@@ -17,7 +17,7 @@ layout: post
 summary: Using the Android for Cars App Library
 author: changheum
 category: [android]
-# thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/documents.png
 keywords: [android, aaos]
 usemathjax: true
 permalink: /blog/aaos_car_library

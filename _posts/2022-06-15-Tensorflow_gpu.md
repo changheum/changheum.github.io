@@ -17,7 +17,7 @@ layout: post
 summary: gitlab
 author: changheum
 category: [tensorflow]
-# thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/documents.png
 keywords: [tensorflow]
 usemathjax: true
 permalink: /blog/tensorflow

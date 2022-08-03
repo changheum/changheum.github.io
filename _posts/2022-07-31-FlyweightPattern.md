@@ -17,7 +17,7 @@ layout: post
 summary: Flyweight Pattern
 author: changheum
 category: [java]
-thumbnail: 
+thumbnail: /assets/img/documents.png
 keywords: [java, pattern, flyweight]
 usemathjax: true
 permalink: /blog/flyweight_pattern

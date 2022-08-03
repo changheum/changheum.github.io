@@ -9,7 +9,7 @@ layout: post
 summary: Welcome to Jekyll!
 author: changheum
 category: [jekyll]
-# thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/documents.png
 keywords: [jekyll]
 usemathjax: true
 permalink: /blog/welcome_to_jekyll
