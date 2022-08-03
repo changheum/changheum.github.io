@@ -200,7 +200,9 @@ public final class HelloWorldSession extends Session {
     ...
 }
 ```
-앱이 홈이나 랜딩화면이 아닌 화면에서 시작하는 시나리오를 처리하려면, (ex. 딥링크(앱의 컨텐츠로 연결되는 링크) 처리)  
+앱이 홈이나 랜딩화면이 아닌 화면에서 시작하는 시나리오를 처리하려면,   
+예를 들어, 딥링크(앱의 컨텐츠로 연결되는 링크) 처리  
+  
 __onCreateScreen__ 으로 부터 리턴을 받기 전에  
 __ScreenManager.push__ 를 사용하여 screen 의 back stack을 pre-seed 할 수 있다.  
 Pre-seeding 을 사용하면, 사용자가 첫화면에서 이전 스크린으로 이동할 수 있다.  
@@ -497,7 +499,7 @@ __LifesycleOwner__ 인터페이스를 구현하여, __Session__ 및 __Screen__ �
   
 ## The lifecycles of a CarAppService and a Session
 자세한 내용은 [Session.getLifecycle 메서드 문서](https://developer.android.com/reference/androidx/car/app/Session?hl=ko#getLifecycle())를 참고  
-![Session 수명 주기](/assets/img/posts/2022-07-28_carappservice-session-lifecycle.png){style="background-color:white"}  
+![Session 수명 주기](/assets/img/posts/2022-07-28_carappservice-session-lifecycle.png){style="background:#fff"}  
 
 ## The lifecycle of a Screen
 자세한 내용은 [Screen.getLifecycle 메서드 문서](https://developer.android.com/reference/androidx/car/app/Screen#getlifecycle)를 참고  
